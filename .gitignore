@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+*.dylib
+
+# Ignore media files
+media/
+*.mp4
+
+# Ignore .env file
+.env
+
+#ignore old
+/.git_old
