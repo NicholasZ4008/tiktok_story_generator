@@ -53,7 +53,7 @@ To run the main script:
 python brainrot.py
 ```
 
-(Add more specific usage instructions here based on your project's functionality)
+Make you have the appropriate media files as well!
 
 ## Contributing
 
